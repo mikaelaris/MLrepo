@@ -16,3 +16,10 @@ pip install -r requirements.txt
 python lab01/src/print_versions.py > lab01/results/versions.txt
 python lab01/src/run_lab01.py
 ```
+
+## Lab 2
+
+```
+python -m pytest lab02/tests
+cd lab02/src && python run_lab02.py
+```
