@@ -1,4 +1,4 @@
-# ML Systems Labs
+# MLrepo (for ML lab assignments)
 
 One repository, one folder per lab (`lab01/` ... `lab11/`, `project/`).
 
