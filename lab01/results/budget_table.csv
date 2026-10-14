@@ -1,0 +1,9 @@
+model,tier,latency_ok,size_ok,memory_ok_process_peak,memory_ok_model_only
+LogisticRegression,Cloud,True,True,True,True
+LogisticRegression,Edge,True,True,True,True
+LogisticRegression,Mobile,True,True,True,True
+LogisticRegression,TinyML,True,True,False,True
+RandomForest,Cloud,True,True,True,True
+RandomForest,Edge,True,True,True,True
+RandomForest,Mobile,True,True,True,True
+RandomForest,TinyML,True,False,False,False
