@@ -1,0 +1,2 @@
+W=16: criterion (>=9/10 with rel err<1e-6) met for 129/200 random draws of 10 weights; all entries with |grad|>1e-4 below 1e-6 in 169/200 draws
+W=64: criterion (>=9/10 with rel err<1e-6) met for 151/200 random draws of 10 weights; all entries with |grad|>1e-4 below 1e-6 in 182/200 draws
