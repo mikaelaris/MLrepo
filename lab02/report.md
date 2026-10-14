@@ -1,5 +1,7 @@
 # Lab 2: neural network from scratch
 
+<img width="843" height="1280" alt="photo_2026-10-14_19-56-07" src="https://github.com/user-attachments/assets/4bb8661b-2d75-42aa-8717-f7b820017b43" />
+
 Everything is plain NumPy (`src/nn.py`). The experiment script is `src/run_lab02.py`, tests are in `tests/test_nn.py` (run with `python -m pytest lab02/tests`), and the raw outputs live in `results/`.
 
 ## 1. Data
